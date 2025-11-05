@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "treeName": "Fiddle Leaf Fig",
+    "rating": 4.5,
+    "img": "https://i.ibb.co.com/R4JpyrHx/close-up-collection-green-leafs-concept.jpg",
+    "treePrice": 45,
+    "description": "Perfect for low light & easy to care 🌱",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "id": 2,
+    "treeName": "Snake Plant",
+    "rating": 4.2,
+    "img": "https://i.ibb.co.com/CKhjbmKn/houseplant-with-long-leaves-pot-against-wooden-wall-lights.jpg",
+    "treePrice": 25,
+    "description": "Perfect for low light & easy to care 🌱",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "id": 3,
+    "treeName": "Aloe Vera",
+    "rating": 4.0,
+    "img": "https://i.ibb.co.com/tTWZfnP1/closeup-shot-aloe-vera-plant-clay-pot-wooden-surface.jpg",
+    "treePrice": 20,
+    "description": "Perfect for low light & easy to care 🌱",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "id": 4,
+    "treeName": "Peace Lily",
+    "rating": 4.3,
+    "img": "https://i.ibb.co.com/WvnCp8YR/beautiful-blooming-white-flowers-spathiphyllum.jpg",
+    "treePrice": 30,
+    "description": "Perfect for low light & easy to care 🌱",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "id": 5,
+    "treeName": "Rubber Plant",
+    "rating": 4.1,
+    "img": "https://i.ibb.co.com/GQMczcBw/indoor-plants-studio.jpg",
+    "treePrice": 35,
+    "description": "Perfect for low light & easy to care 🌱",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "id": 6,
+    "treeName": "Boston Fern",
+    "rating": 4.4,
+    "img": "https://i.ibb.co.com/TDk7WmjN/tropical-fern-leaves-with-shadows.jpg",
+    "treePrice": 28,
+    "description": "Perfect for low light & easy to care 🌱",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "id": 7,
+    "treeName": "ZZ Plant",
+    "rating": 4.2,
+    "img": "https://i.ibb.co.com/k2TPnTpf/birds-nest-fern-plant-black-pot.jpg",
+    "treePrice": 32,
+    "description": "Perfect for low light & easy to care 🌱",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "id": 8,
+    "treeName": "Pothos",
+    "rating": 4.3,
+    "img": "https://i.ibb.co.com/hQXwcqr/golden-pothos-epipremnum-aureum-white-table-living-room-home-garden.jpg",
+    "treePrice": 22,
+    "description": "Perfect for low light & easy to care 🌱",
+    "providerName": "UrbanGreen Studio"
+  },
+  {
+    "id": 9,
+    "treeName": "Weeping Fig",
+    "rating": 4.5,
+    "img": "https://i.ibb.co.com/fGNVWJzs/bunch-green-figs-with-leaves-marble.jpg",
+    "treePrice": 40,
+    "description": "Perfect for low light & easy to care 🌱",
+    "providerName": "UrbanGreen Studio"
+  }
+]
